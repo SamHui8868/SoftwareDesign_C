@@ -1,0 +1,2 @@
+C:\Users\mings\Desktop\C\HW12\HW12-HanoiTower\Debug\HW12-HanoiTower.exe
+C:\Users\mings\Desktop\C\HW12\HW12-HanoiTower\Debug\HW12-HanoiTower.pdb

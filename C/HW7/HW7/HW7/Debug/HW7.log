@@ -1,0 +1,4 @@
+﻿  HW7.cpp
+C:\Users\mings\Desktop\C\HW7\HW7\HW7\HW7.cpp(32,29): warning C4101: 'load': 未參考的區域變數
+C:\Users\mings\Desktop\C\HW7\HW7\HW7\HW7.cpp(197,10): warning C4101: 'c': 未參考的區域變數
+  HW7.vcxproj -> C:\Users\mings\Desktop\C\HW7\HW7\Debug\HW7.exe

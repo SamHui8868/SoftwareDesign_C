@@ -1,0 +1,2 @@
+C:\Users\mings\Desktop\C\HW12\HW12-expressioncal\Debug\HW12-expressioncal.exe
+C:\Users\mings\Desktop\C\HW12\HW12-expressioncal\Debug\HW12-expressioncal.pdb

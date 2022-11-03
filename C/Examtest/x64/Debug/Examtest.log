@@ -1,0 +1,3 @@
+﻿  Examtest.cpp
+C:\Users\user\Desktop\C\Examtest\Examtest.cpp(18,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  Examtest.vcxproj -> C:\Users\user\Desktop\C\Examtest\x64\Debug\Examtest.exe

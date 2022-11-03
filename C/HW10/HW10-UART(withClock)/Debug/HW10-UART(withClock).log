@@ -1,0 +1,6 @@
+﻿  HW10-UART(withClock).cpp
+C:\Users\mings\Desktop\C\HW10\HW10-UART(withClock)\HW10-UART(withClock).cpp(43,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'HANDLE'
+C:\Users\mings\Desktop\C\HW10\HW10-UART(withClock)\HW10-UART(withClock).cpp(164,6): warning C4101: 'ln': 未參考的區域變數
+  CQ.cpp
+  正在產生程式碼...
+  HW10-UART(withClock).vcxproj -> C:\Users\mings\Desktop\C\HW10\HW10-UART(withClock)\Debug\HW10-UART(withClock).exe
